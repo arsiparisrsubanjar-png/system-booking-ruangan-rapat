@@ -1,4 +1,5 @@
- "name": "sistem-booking-ruangan-rapat",
+{
+  "name": "sistem-booking-ruangan-rapat",
   "private": true,
   "version": "1.0.0",
   "scripts": {
